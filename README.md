@@ -1,6 +1,6 @@
 # Roll Dice
 
-App de simulação de um roll dice, feito durante o curso Developing Android Apps with Kotlin da Google.
+App de simulação de um roll dice, feito durante o curso [Developing Android Apps with Kotlin by Google](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012).
 
 ## 🔨 Funcionalidades do projeto
 
@@ -14,7 +14,7 @@ As técnicas e tecnologias utilizadas pra isso são:
 
 - `LinearLayout`: ViewGroup padrão para implementar o layout
 - `ImageView`: View para apresentar imagens no App
-- `Button`: View para realizar a função de rolagem
+- `TextView`: View para realizar a função de rolagem
 - `View Binding`: Busca de views do layout de forma segura
 
 
