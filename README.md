@@ -1,6 +1,6 @@
 # Roll Dice
 
-App de simulação de um roll dice, feito durante o curso [Developing Android Apps with Kotlin by Google](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012).
+App de simulação de rolagem de dados, feito durante o curso [Developing Android Apps with Kotlin by Google](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012).
 
 ## 🔨 Funcionalidades do projeto
 
